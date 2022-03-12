@@ -2,11 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-<style>
-body {
-  font-family: Tahoma, sans-serif;
-}
-</style>
+
 nav ul, footer ul {
  
     padding: 0px;
