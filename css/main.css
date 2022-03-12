@@ -9,6 +9,8 @@ nav ul, footer ul {
     list-style: none;
     color: #002060;
     font-weight: bold;
+      font-family: Tahoma, sans-serif;
+
 }
 nav ul li, footer ul li {
     display: inline;
@@ -17,6 +19,8 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #002060;
+      font-family: Tahoma, sans-serif;
+
 }
 a:hover {
     text-decoration: underline;
@@ -30,6 +34,8 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+      font-family: Tahoma, sans-serif;
+
 }
 footer {
     border-top: 1px solid #404040;
