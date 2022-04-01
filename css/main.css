@@ -55,6 +55,7 @@ footer {
 
 ol.a {
   list-style-type: upper-roman;
+  list-style-position: inside;
 }
 
 ul.posts { 
