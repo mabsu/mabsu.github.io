@@ -54,10 +54,14 @@ footer {
 }
 
 ol.a {
-  list-style-type: upper-roman;
+  list-style-type: A;
   list-style-position: inside;
 }
 
+ul.a {
+  list-style-type:square
+  list-style-position: inside;
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
