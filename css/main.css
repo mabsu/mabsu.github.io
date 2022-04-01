@@ -28,8 +28,15 @@ a:hover {
 h1 {
     font-size: 3em;
         color: #2AABDB;
-
-
+}
+h2 {
+    font-size: 2em;
+        color: #2AABDB;
+}
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
 }
 p {
 
