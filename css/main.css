@@ -56,14 +56,11 @@ h2 {
   float:left;  
 }
 
-p.clear {
-  clear: both;
-}
 
 img {
 width:200px;
 height:200px;
-float:none;
+clear: both;
 }
 
 p {
