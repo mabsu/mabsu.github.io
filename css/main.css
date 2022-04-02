@@ -36,9 +36,12 @@ h2 {
         color:#808080;
 }
 .myDiv {
-  border: 5px outset #FFF0F5;
+  border: dotted 2px #FFF0F5;
   background-color: #F0FFF0;
   text-align: center;
+ width: 200px;
+    height: 200px;
+   
 }
 p {
 
