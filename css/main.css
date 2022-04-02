@@ -1,9 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
-      font-family: Tahoma, sans-serif;
-background-color:#FFFFF0;
-color:#808080;
+    font-family: Tahoma, sans-serif;
+    background-color:#FFFFF0;
+    color:#808080;
 
 }
 
@@ -38,11 +38,21 @@ h2 {
 .myDiv {
   border: 2px dotted #FFF0F5;
   background-color: #F0FFF0;
-  text-align: left;
+  text-align: center;
   width: 200px;
   height: 200px;
    
 }
+
+.listDiv {
+  border: 2px dotted #FFF0F5;
+  background-color: #F0FFF0;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+   
+}
+
 p {
 
     font-size: 16px;
@@ -57,13 +67,13 @@ footer {
 }
 
 .a {
-  list-style-type:lower-alpha;
-  list-style-position: inside;
+    list-style-type:lower-alpha;
+    list-style-position: inside;
 }
 
 .b {
-  list-style-type:square;
-  list-style-position: inside;
+    list-style-type:square;
+    list-style-position: inside;
 }
 ul.posts { 
     margin: 20px auto 40px; 
