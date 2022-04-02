@@ -74,6 +74,7 @@ p {
 footer {
     border-top: 1px solid #404040;
     font-size: .8em;
+    clear: both;
 }
 
 .a {
