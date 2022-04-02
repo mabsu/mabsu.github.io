@@ -54,7 +54,7 @@ footer {
 }
 
 ol.a {
-  list-style-type: A;
+  list-style-type:lower-alpha;
   list-style-position: inside;
 }
 
