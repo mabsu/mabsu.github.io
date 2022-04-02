@@ -9,7 +9,7 @@ color:#808080;
 
 nav ul, footer ul {
 
-    padding: 0px;
+    padding: 5px;
     list-style: none;
     color: #002060;
     font-weight: bold;
@@ -56,12 +56,12 @@ footer {
     font-size: .8em;
 }
 
-ol.a {
+.a {
   list-style-type:lower-alpha;
   list-style-position: inside;
 }
 
-ul.b {
+.b {
   list-style-type:square;
   list-style-position: inside;
 }
