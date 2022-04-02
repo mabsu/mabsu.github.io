@@ -35,7 +35,7 @@ h2 {
     font-size: 18px;
         color:#808080;
 }
-.myDiv {
+.ollistDiv {
   border: 2px dotted #FFF0F5;
   background-color: #F0FFF0;
   text-align: left;
@@ -45,7 +45,7 @@ h2 {
    
 }
 
-.listDiv {
+.unlistDiv {
   border: 2px dotted #FFF0F5;
   background-color: #F0FFF0;
   text-align: center;
