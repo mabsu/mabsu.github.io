@@ -36,11 +36,11 @@ h2 {
         color:#808080;
 }
 .myDiv {
-  border: dotted 2px #FFF0F5;
+  border: 2px dotted #FFF0F5;
   background-color: #F0FFF0;
   text-align: center;
- width: 200px;
-    height: 200px;
+  width: 200px;
+  height: 200px;
    
 }
 p {
@@ -48,7 +48,7 @@ p {
     font-size: 16px;
     line-height: 1.4em;
     color: #00008B;
-background-color:#E6E6FA;
+    background-color:#E6E6FA;
 
 }
 footer {
