@@ -36,7 +36,7 @@ h2 {
         color:#808080;
 }
 .ollistDiv {
-  border: 2px dotted #FFF0F5;
+  border: 2px dotted #E6E6FA;
   background-color: #F0FFF0;
   text-align: left;
   padding:20px;
@@ -47,7 +47,7 @@ h2 {
 }
 
 .unlistDiv {
-  border: 2px dotted #FFF0F5;
+  border: 2px dotted #E6E6FA;
   background-color: #F0FFF0;
   text-align: left;
   padding:20px;
