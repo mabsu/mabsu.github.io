@@ -61,7 +61,7 @@ img {
 width:200px;
 height:200px;
 padding:20px;
-display: block;
+
 }
 
 p {
@@ -73,7 +73,7 @@ p {
 
 }
 footer {
-    border-top: 1px solid #404040;
+    border-top: 1px solid #00008B;
     font-size: .8em;
     clear: both;
 }
