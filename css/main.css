@@ -95,3 +95,16 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.places {
+    padding: 5px;
+    
+}
+
+.kokkola img {
+    width: 50%;
+}
+.turku img {
+    width: 50%;
+}
+
