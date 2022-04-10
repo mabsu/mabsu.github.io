@@ -113,8 +113,8 @@ ul.posts li {
 
 progress {
   accent-color: gray;
- display: inline-block;
-font-size: 1em;
-color: #E6E6FA;
+  display: inline-block;
+  font-size: 1em;
+  color: #E6E6FA;
 }
 
