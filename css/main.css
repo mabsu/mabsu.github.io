@@ -13,7 +13,8 @@ nav ul {
     font-weight: bold;
     border-radius: 25px;
     background: #E6E6FA;
-    padding: 5px; 
+    padding: 10px;
+    width: 400px; 
 }
 
 footer ul {
