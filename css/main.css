@@ -46,6 +46,7 @@ h1.groove {
     color: #808080;
     border-style: groove;
     padding: 5px;
+    width: 200px;
 }
 h2 {
     font-size: 18px;
