@@ -32,6 +32,7 @@ footer ul {
     list-style: none;
     color: #002060;
     font-weight: bold;
+    margin-top:10px;
 }
 
 nav ul li, footer ul li {
