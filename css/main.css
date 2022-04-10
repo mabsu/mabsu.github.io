@@ -17,10 +17,10 @@ nav ul {
   padding: 60px;
   text-align: center;
   background-image: url(https://t3.ftcdn.net/jpg/04/68/14/76/360_F_468147628_ZOOWoodHrIe1xR920FgrakFbJukGzRiW.jpg);
-  background-repeat: no-repeat;  
+  background-repeat: repeat-x;  
   color: white;
   font-size: 40px;
-  height: 250px;
+  height: 200px;
 }
 
 footer ul {
