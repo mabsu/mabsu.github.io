@@ -10,10 +10,7 @@ nav ul {
     list-style: none;
     color: #002060;
     font-weight: bold;
-    border-radius: 25px;
-    background: #E6E6FA;
-    padding: 10px;
-    width: 250px;   
+      
 }
 
 footer ul {
@@ -32,6 +29,10 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #002060;
+    border-radius: 25px;
+    background: #E6E6FA;
+    padding: 10px;
+     
 }
 
 a:hover {
