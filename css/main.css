@@ -56,6 +56,16 @@ h2 {
   float:left;  
 }
 
+.skillsDiv {
+  border: 2px dotted #E6E6FA;
+  background-color: #F0FFF0;
+  text-align: left;
+  padding:20px;
+  width: 300px;
+  height: 300px;
+  float:left;
+   
+}
 
 img {
 width:200px;
@@ -97,11 +107,14 @@ ul.posts li {
 
 .places {
     padding: 5px;
+    float:left;
     
 }
 
 progress {
   accent-color: gray;
  display: inline-block;
+font-size: 1em;
+color: #E6E6FA;
 }
 
