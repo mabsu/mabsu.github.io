@@ -4,7 +4,6 @@ body {
     font-family: Tahoma, sans-serif;
     background-color:#F4f4f4;
     color:#808080;
-
 }
 
 nav ul {  
@@ -14,8 +13,7 @@ nav ul {
     border-radius: 25px;
     background: #E6E6FA;
     padding: 10px;
-    width: 300px;
-     
+    width: 300px;   
 }
 
 footer ul {
@@ -24,12 +22,13 @@ footer ul {
     list-style: none;
     color: #002060;
     font-weight: bold;
-
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
 }
@@ -39,10 +38,12 @@ a:hover {
     color: hotpink;
 
 }
+
 h1 {
     font-size: 20px;
     color: #808080;
 }
+
 h2.groove {
     font-size: 18px;
     color: #808080;
@@ -50,6 +51,7 @@ h2.groove {
     padding: 5px;
     width: 150px;
 }
+
 h2 {
     font-size: 18px;
     color:#808080;
@@ -130,6 +132,4 @@ progress {
   color: 002060;
   font-size: 30px;
   height: 250px;
-
-
 }
