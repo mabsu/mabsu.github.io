@@ -15,7 +15,7 @@ nav ul {
     background: #E6E6FA;
     padding: 10px;
     width: 300px;
-    clear: both; 
+     
 }
 
 footer ul {
@@ -83,6 +83,7 @@ p {
     line-height: 1.4em;
     color: #002060;
     background-color:#E6E6FA;
+    clear: both;
 }
 
 footer {
