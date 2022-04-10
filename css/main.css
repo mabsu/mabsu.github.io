@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: Tahoma, sans-serif;
-    background-color:#FFFFF0;
+    background-color:#F4f4f4;
     color:#808080;
 
 }
@@ -76,12 +76,12 @@ p {
 
     font-size: 16px;
     line-height: 1.4em;
-    color: #00008B;
+    color: #002060;
     background-color:#E6E6FA;
 
 }
 footer {
-    border-top: 1px solid #00008B;
+    border-top: 1px solid #002060;
     font-size: .8em;
     clear: both;
 }
