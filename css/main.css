@@ -18,9 +18,12 @@ nav ul {
   text-align: center;
   background-image: url(https://68.media.tumblr.com/c43446d96b45753447f955ef4578ccdd/tumblr_o99ivs1VUw1uuqw52o5_r1_1280.png);
   background-repeat: repeat-x;  
-  color: white;
-  font-size: 40px;
   height: 200px;
+}
+
+h1.header {
+    color: white;
+  font-size: 40px;
 }
 
 footer ul {
@@ -42,7 +45,7 @@ a {
     border-radius: 25px;
     background: #E6E6FA;
     padding: 15px;
-    margin:5px;
+    margin:10px;
      
 }
 
