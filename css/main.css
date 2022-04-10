@@ -21,7 +21,9 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #002060;
+    color: white;
+    border-radius: 25px;
+    background: #FFFFF0;
 
 }
 a:hover {
