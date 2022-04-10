@@ -14,7 +14,8 @@ nav ul {
     border-radius: 25px;
     background: #E6E6FA;
     padding: 10px;
-    width: 400px; 
+    width: 300px;
+    clear: both; 
 }
 
 footer ul {
@@ -50,6 +51,7 @@ h2 {
     font-size: 18px;
     color:#808080;
 }
+
 .ollistDiv {
   border: 2px dotted #E6E6FA;
   background-color: #F0FFF0;
@@ -58,7 +60,6 @@ h2 {
   width: 200px;
   height: 200px;
   float:left;
-   
 }
 
 .unlistDiv {
@@ -72,21 +73,18 @@ h2 {
 }
 
 
-
 img {
 width:200px;
 padding:10px;
-
 }
 
 p {
-
     font-size: 16px;
     line-height: 1.4em;
     color: #002060;
     background-color:#E6E6FA;
-
 }
+
 footer {
     border-top: 1px solid #002060;
     font-size: .8em;
