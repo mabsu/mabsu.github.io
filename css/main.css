@@ -121,3 +121,11 @@ progress {
   accent-color: gray;
 }
 
+.header { 
+  padding: 60px;
+  text-align: center;
+  background-image: url(https://thumbs.dreamstime.com/b/beautiful-pink-carnation-flower-header-15204119.jpg);  
+  color: 002060;
+  font-size: 30px;
+
+}
