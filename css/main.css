@@ -36,13 +36,15 @@ a {
 
 a:hover {
     text-decoration: underline;
+    color: hotpink;
+
 }
 h1 {
     font-size: 20px;
     color: #808080;
 }
-h1.groove {
-    font-size: 20px;
+h2.groove {
+    font-size: 18px;
     color: #808080;
     border-style: groove;
     padding: 5px;
