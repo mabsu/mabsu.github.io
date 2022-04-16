@@ -49,12 +49,13 @@ header {
 
 footer ul {
 
-    padding: 5px;
     list-style: none;
     color: #002060;
     font-weight: bold;
     margin-top:15px;
     margin-bottom: 15px;
+    padding: 10px;
+
 
 }
 
