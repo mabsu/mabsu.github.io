@@ -65,7 +65,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #002060;
-    border-radius: 25px;
+    border-radius: 20px;
     background: #E6E6FA;
     padding: 10px;
     margin:10px;
@@ -133,7 +133,7 @@ p {
 
 footer {
     border-top: 1px solid #002060;
-    background-color:#E9967A;
+    background-color:#D8BFD8;
     font-size: .8em;
     clear: both;
 }
