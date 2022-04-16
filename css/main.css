@@ -17,6 +17,7 @@ article {
   padding: 10px;
   width: 60%;
   background-color: #FFC0CB;
+  clear: both;
 }
 
 section::after {
@@ -27,8 +28,6 @@ section::after {
 
 aside {
   width: 30%;
-  padding-left: 15px;
-  margin-left: 15px;
   float: right;
   font-style: italic;
   background-color:#E6E6FA;
