@@ -32,13 +32,13 @@ aside {
   margin-left: 15px;
   float: right;
   font-style: italic;
-  background-color: lightgray;
+  background-color:#FFE4E1;
 }
 
-.header { 
+header { 
     padding: 60px;
     text-align: center;
-    background-image: url(https://68.media.tumblr.com/c43446d96b45753447f955ef4578ccdd/tumblr_o99ivs1VUw1uuqw52o5_r1_1280.png);
+    background-color:#FFF0F5;
     background-repeat: repeat-x;  
     height: 200px;
     margin-top:10px;
@@ -129,12 +129,12 @@ p {
     font-size: 16px;
     line-height: 1.4em;
     color: #002060;
-    background-color:#E6E6FA;
     clear: both;
 }
 
 footer {
     border-top: 1px solid #002060;
+    background-color:#E9967A;
     font-size: .8em;
     clear: both;
 }
