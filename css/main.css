@@ -61,6 +61,8 @@ footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 15px;
+    margin-bottom: 15px;
+
 
 }
 
