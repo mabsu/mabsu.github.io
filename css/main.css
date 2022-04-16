@@ -31,7 +31,7 @@ aside {
   margin-left: 15px;
   float: right;
   font-style: italic;
-  background-color:#FFE4E1;
+  background-color:#E6E6FA;
 }
 
 header { 
@@ -55,11 +55,14 @@ footer ul {
     color: #002060;
     font-weight: bold;
     margin-top:15px;
+    margin-bottom: 15px;
+
 }
 
 nav ul li, footer ul li {
     display: inline;
     margin-right: 15px;
+
 }
 
 a {
