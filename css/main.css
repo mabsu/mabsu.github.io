@@ -17,7 +17,9 @@ nav ul {
 address { 
   display: block;
   color: #FFFFFF;
-  margin-right: 15px;
+  margin-left: 15px;
+  padding: 10px;
+
 
 
 }
