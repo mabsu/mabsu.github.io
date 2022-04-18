@@ -51,7 +51,6 @@ header {
 footer ul {
 
     list-style: none;
-    color: white;
     font-weight: bold;
     margin-top:15px;
     margin-bottom: 15px;
@@ -182,4 +181,6 @@ progress {
 address { 
   display: block;
   font-style: italic;
+  color: white;
+
 } 
