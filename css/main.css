@@ -55,10 +55,10 @@ header {
 footer ul {
     list-style: none;
     font-weight: bold;
-    margin-top:15px;
+    margin-top:10px;
     margin-bottom: 15px;
     padding: 10px;
-    font-size: 10px;
+    font-size: 12px;
 }
 
 nav ul li, footer ul li {
