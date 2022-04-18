@@ -8,7 +8,6 @@ body {
 
 nav ul {  
     list-style: none;
-    color: #002060;
     font-weight: bold;
     margin-bottom: 40px;   
 }
@@ -16,8 +15,7 @@ nav ul {
 address { 
   display: block;
   color: #FFFFFF;
-  margin-left: 15px;
-  padding: 10px;
+ 
 }
 
 article {
@@ -146,7 +144,6 @@ p {
     color: #002060;
     clear: both;
 }
-
 
 
 .a {
