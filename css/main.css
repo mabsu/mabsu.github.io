@@ -63,10 +63,15 @@ footer ul {
     font-size: 12px;
 }
 
-nav ul li, footer ul li {
+nav ul li {
     display: inline;
     margin-right: 15px;
     margin-bottom: 15px;
+}
+
+footer ul li {
+    display: inline;
+    
 }
 
 footer {
