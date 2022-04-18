@@ -51,11 +51,13 @@ header {
 footer ul {
 
     list-style: none;
-    color: #002060;
+    color: white;
     font-weight: bold;
     margin-top:15px;
     margin-bottom: 15px;
     padding: 10px;
+    font-size: .8em;
+
 
 }
 
@@ -69,7 +71,6 @@ nav ul li, footer ul li {
 footer {
     border-top: 1px solid #002060;
     background-color:#D8BFD8;
-    font-size: .8em;
     clear: both;
     padding-top:10px;
     margin-top: 20px;
