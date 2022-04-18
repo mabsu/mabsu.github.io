@@ -57,7 +57,6 @@ footer ul {
     margin-bottom: 15px;
     padding: 10px;
 
-
 }
 
 nav ul li, footer ul li {
@@ -65,6 +64,15 @@ nav ul li, footer ul li {
     margin-right: 15px;
     margin-bottom: 15px;
 
+}
+
+footer {
+    border-top: 1px solid #002060;
+    background-color:#D8BFD8;
+    font-size: .8em;
+    clear: both;
+    padding-top:10px;
+    margin-top: 20px;
 
 }
 
@@ -140,15 +148,7 @@ p {
     clear: both;
 }
 
-footer {
-    border-top: 1px solid #002060;
-    background-color:#D8BFD8;
-    font-size: .8em;
-    clear: both;
-    padding-top:10px;
-    margin-top: 20px;
 
-}
 
 .a {
     list-style-type:lower-alpha;
