@@ -106,7 +106,7 @@ h3 {
 }
 
 .ollistDiv {
-  border: 2px dotted #E6E6FA;
+  border: 2px dotted #D3D3D3;
   background-color: #F5EEF8;
   text-align: left;
   padding:20px;
@@ -117,7 +117,7 @@ h3 {
 }
 
 .unlistDiv {
-  border: 2px dotted #E6E6FA;
+  border: 2px dotted #D3D3D3;
   background-color: #F5EEF8;
   text-align: left;
   padding:20px;
@@ -177,3 +177,8 @@ ul.posts li {
 progress {
   accent-color: gray;
 }
+
+address { 
+  display: block;
+  font-style: italic;
+} 
