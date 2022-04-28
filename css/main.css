@@ -137,8 +137,12 @@ img {
 width:150px;
 padding:5px;
 border-radius: 50%;
-position: relative;
-left: -150px;  
+
+}
+
+.places {
+  position: relative;
+  left: -150px;  
 }
 
 p {
