@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: Tahoma, sans-serif;
+    font-family: Lato, sans-serif;
     background-color:#F4f4f4;
     color:#808080;
 }
@@ -9,41 +9,37 @@ body {
 nav ul {  
     list-style: none;
     font-weight: bold;
-    margin-bottom: 40px;   
+    margin-bottom: 80px; 
+    margin-top: 40px; 
 }
 
-address li { 
-  display: block;
-  color: #FFFFFF;
- 
-}
 
 article {
   float: left;
-  padding: 10px;
-  width: 60%;
-  background-color: #FFF0F5;
+  padding-bottom: 10px;
+  width: 50%;
+  background-color: #F5EEF8;
   clear: both;
 }
 
 section::after {
-  content: "";
   display: table;
+  clear: both;
 }
 
 aside {
-  width: 30%;
+  width: 20%;
   float: right;
-  font-style: italic;
+  font-style: small;
   background-color:#E6E6FA;
-  margin-bottom:10px;
-
+  margin:20px;
+  padding: 10px;
 }
 
 header { 
     padding: 60px;
     text-align: center;
-    background-color:#D8BFD8;
+    background-color:#DFD2CC;
     background-repeat: repeat-x;  
     height: 200px;
     margin-top:10px;
@@ -51,16 +47,15 @@ header {
 
 .header h1 {
     color: white;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 footer ul {
     list-style: none;
     font-weight: bold;
     margin-top:10px;
-    margin-bottom: 15px;
-    padding: 10px;
-    font-size: 12px;
+    padding: 20px;
+    font-size: 0.8em;
 }
 
 nav ul li {
@@ -69,47 +64,42 @@ nav ul li {
     margin-bottom: 15px;
 }
 
-footer ul li {
-    display: inline;
-    
+footer {
+    border-top: 1px solid #808080;
+    background-color:#DFD2CC;
+    padding-top: 20px;
+    clear: both;
 }
 
-footer {
-    border-top: 1px solid #002060;
-    background-color:#D8BFD8;
-    clear: both;
-    padding-top:10px;
-    margin-top: 20px;
+footer ul li {
+    display: inline;
+}
+
+.education {
+  font-size: 14px;
 }
 
 a {
     text-decoration: none;
-    color: #002060;
+    color: #808080;
     padding: 10px;
     margin:10px;  
 }
 
 a:hover {
-    text-decoration: underline;
-    color: hotpink;
+    text-decoration: none;
+    color: #BE9F92;
 }
 
 h1 {
-    font-size: 20px;
-    color: #808080;
+    font-size: 28px;
+    color: #B09183;
 }
 
-h2.groove {
-    font-size: 16px;
-    color: #808080;
-    border-style: groove;
-    padding: 5px;
-    width: 120px;
-}
 
 h2 {
     font-size: 18px;
-    color:#808080;
+    color:#B09183;
 }
 
 h3 {
@@ -118,7 +108,6 @@ h3 {
 }
 
 .ollistDiv {
-  border: 2px dotted #D3D3D3;
   background-color: #F5EEF8;
   text-align: left;
   padding:20px;
@@ -129,43 +118,43 @@ h3 {
 }
 
 .unlistDiv {
-  border: 2px dotted #D3D3D3;
-  background-color: #F5EEF8;
+  background-color: #F8F5EE;
   text-align: left;
-  padding:20px;
-  width: 200px;
-  height: 200px;
-  float:left;
-  margin:10px;  
+  padding-top:20px;
+  margin-top:10px;
+  position: relative;
 }
 
 
 img {
-width:300px;
+width:200px;
 padding:5px;
+ 
 }
 
 p {
     font-size: 14px;
     line-height: 1.4em;
-    color: #002060;
+    color: #808080;
     clear: both;
+    width: 50%;
 }
 
 
 .a {
-    list-style-type:lower-alpha;
+    list-style-type:none;
     list-style-position: inside;
 }
 
 .b {
-    list-style-type:square;
+    list-style-type:none;
     list-style-position: inside;
+    font-size:0.8em;
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 12px;
+    margin: 10px auto 30px; 
+    font-size: 18px;
 }
 
 ul.posts li {
@@ -174,11 +163,35 @@ ul.posts li {
 
 .places {
     padding-top: 10px;
-    float:left;   
+    float:right;   
 }
 
 progress {
   accent-color: gray;
 }
 
- 
+ footer a { 
+  padding-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+footer h2 {
+  color:white;
+  position: relative;
+  left: 20px;
+}
+
+.skills-class {
+  position: absolute;
+  top: 800px;
+  right: 300px;
+  width: 370px;
+}
+
+.interests-class  {
+  position: absolute;
+  top: 1200px;
+  right: 300px;
+  width: 370px;
+}
