@@ -162,6 +162,9 @@ p {
     width: 50%;
 }
 
+article p {
+  width: 80%;
+}
 
 .a {
     list-style-type:none;
