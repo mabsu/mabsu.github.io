@@ -29,7 +29,7 @@ section::after {
 aside {
   width: 20%;
   float: right;
-  font-style: small;
+ 
   background-color:#E8E2DF;
   margin:10px;
   padding-left: 20px;
@@ -63,7 +63,7 @@ footer ul {
 nav ul li {
     display: inline;
     margin-right: 15px;
-    margin-bottom: 15px;
+    
 }
 
 footer {
