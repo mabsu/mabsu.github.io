@@ -163,7 +163,8 @@ ul.posts li {
 
 .places {
     padding-top: 10px;
-    float:right;   
+    float:right;
+    border-radius: 50px;   
 }
 
 progress {
